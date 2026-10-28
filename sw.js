@@ -1,4 +1,4 @@
-const CACHE_NAME = 'obs-emergency-v1';
+const CACHE_NAME = 'obs-emergency-v2';
 const ASSETS = [
   './',
   './index.html',
